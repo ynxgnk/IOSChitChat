@@ -1,0 +1,6 @@
+framework module StreamChatUI {
+  umbrella header "StreamChatUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
